@@ -1,2 +1,0 @@
-com/bridgelabz/Generics2.java
- com.bridgelabz.Generics2
