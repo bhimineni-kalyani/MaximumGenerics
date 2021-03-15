@@ -9,6 +9,7 @@ public class GenericstestRefactor {
         public void set() throws Exception {
             MaxN = new GenericsRefactor();
         }
+
         @Test
         public void given_MaxNumberat_FirstPosition_Returns_True_Test() {
             int result = MaxN.getMaximum(30,20,10);
