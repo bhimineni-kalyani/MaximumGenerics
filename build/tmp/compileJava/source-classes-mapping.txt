@@ -6,3 +6,7 @@ com/bridgelabz/Generics1.java
  com.bridgelabz.Generics1
 com/bridgelabz/GenericsRefactor.java
  com.bridgelabz.GenericsRefactor
+com/bridgelabz/GenericsRefactor2.java
+ com.bridgelabz.GenericsRefactor2
+com/bridgelabz/Generics4.java
+ com.bridgelabz.Generics4

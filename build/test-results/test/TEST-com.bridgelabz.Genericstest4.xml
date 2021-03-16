@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.Genericstest4" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-16T07:35:27" hostname="DESKTOP-0UM0A7N" time="0.134">
+  <properties/>
+  <testcase name="given_strings_check_maximum()" classname="com.bridgelabz.Genericstest4" time="0.099"/>
+  <testcase name="given_integers_check_maximum()" classname="com.bridgelabz.Genericstest4" time="0.006"/>
+  <testcase name="given_float_check_maximum()" classname="com.bridgelabz.Genericstest4" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
